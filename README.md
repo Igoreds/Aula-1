@@ -54,6 +54,19 @@ Merge: Processo de unir duas branches. Quando uma PR é aceita, as alterações 
 
 O arquivo README.md é um documento em Markdown que fornece informações sobre o projeto, como seu propósito, instruções de uso e instalação. O Markdown facilita a formatação de texto de maneira simples.
 
+Aqui estão algumas dicas para usar Markdown:
+
+Use negrito e itálico para destacar texto.
+Crie listas com - ou *.
+Adicione links e imagens com facilidade.
+Utilize tabelas para organizar informações.
+
+Para aprimorar suas habilidades em Markdown, podemos conferir recursos como:
+
+Awesome README Templates
+Como Fazer um README.md Bonitão
+Blog da Rocketseat sobre README
+
 # Visual Studio Code (VS Code)
 
 VS Code é um editor de código gratuito e open-source desenvolvido pela Microsoft. Ele oferece uma série de extensões que facilitam o desenvolvimento, como:
